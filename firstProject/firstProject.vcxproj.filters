@@ -18,5 +18,11 @@
     <ClCompile Include="first1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
