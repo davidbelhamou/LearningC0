@@ -133,6 +133,8 @@
     <ClCompile Include="main.c" />
     <ClCompile Include="exercise3.c" />
     <ClCompile Include="forExercise.c" />
+    <ClCompile Include="ReversedSentence.c" />
+    <ClCompile Include="sumOfNaturalNumbers.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

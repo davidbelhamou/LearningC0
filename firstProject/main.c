@@ -2,6 +2,6 @@
 int main() {
 
 	//exercise3();
-	isSumPrime();
+	SumNaturalNumber();
 	return 0;
 }
