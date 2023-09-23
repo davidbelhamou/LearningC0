@@ -2,5 +2,6 @@
 int main() {
 
 	//exercise3();
-	return isPrimeBetween();
+	isSumPrime();
+	return 0;
 }

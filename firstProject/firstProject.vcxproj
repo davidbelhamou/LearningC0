@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="exercise1.c" />
     <ClCompile Include="isPrime.c" />
+    <ClCompile Include="isPrimeSUmOfTwo.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="exercise3.c" />
     <ClCompile Include="forExercise.c" />
